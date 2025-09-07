@@ -9,6 +9,18 @@ Deden Ka'bal Umam
 ```{tableofcontents}
 ```
 
+```{quiz}
+:id: kuis_contoh_1
+:class: warning
+
+## Pertanyaan Saya
+Manakah yang benar?
+
+- [ ] Jawaban A (salah)
+- [x] Jawaban B (benar)
+- [ ] Jawaban C (salah)
+```
+
 # Latihan: Mengenal Isim
 
 Silakan jawab pertanyaan di bawah ini untuk menguji pemahaman Anda.
