@@ -1,11 +1,10 @@
-# Welcome to your Jupyter Book
+# Perkenalan
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Buku Web ini merupakan catatan penulis pribadi saat belajar nahwu yang disarikan dari berbagai sumber.
+Kritik, saran, dan koreksi akan sangat membantu penulis mengembangkan buku web ini agar jadi lebih baik.
 
-Check out the content pages bundled with this sample book to see more.
+Salah hangat
 
+Deden Ka'bal Umam
 ```{tableofcontents}
 ```
