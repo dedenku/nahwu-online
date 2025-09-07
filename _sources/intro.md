@@ -8,6 +8,18 @@ Salah hangat
 Deden Ka'bal Umam
 ```{tableofcontents}
 ```
+#Quiz Testing
+```{quiz}
+:id: kuis_contoh_1
+:class: warning
+
+## Pertanyaan Saya
+Manakah yang benar?
+
+- [ ] Jawaban A (salah)
+- [x] Jawaban B (benar)
+- [ ] Jawaban C (salah)
+```
 
 # Latihan: Mengenal Isim
 
