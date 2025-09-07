@@ -1,3 +1,15 @@
+# Istilah Penting dalam I'rab
+
+Klik setiap istilah di bawah ini untuk melihat definisinya.
+
+```{dropdown} Apa itu I'rab (إِعْرَاب)?
+I'rab adalah perubahan yang terjadi pada akhir sebuah kata yang disebabkan oleh perbedaan 'Amil yang masuk padanya, baik perubahan itu terlihat jelas (lafzhi) maupun tersembunyi (taqdiri).
+```
+
+```{dropdown} Apa itu Bina' (بِنَاء)?
+Bina' adalah ketetapan akhir sebuah kata pada satu kondisi saja, tanpa memandang 'Amil apa pun yang memasukinya. Kata yang memiliki sifat ini disebut Mabni.
+```
+
 # Markdown Files
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
